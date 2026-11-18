@@ -8,7 +8,7 @@ I bring field observations, environmental measurements and public datasets toget
 
 | Project | What you can do with it |
 | --- | --- |
-| [Ecology Analysis Toolkit](https://github.com/azaleawu/ecology-analysis-toolkit) | Find an established tool by ecological question or input type. The catalogue covers 143 existing packages and data resources. Six R and Python examples cover community analysis, structural equation modeling, prediction at held-out sites, spatial sampling and evidence synthesis. |
+| [Ecology Analysis Toolkit](https://github.com/azaleawu/ecology-analysis-toolkit) | Find an established tool by ecological question or input type. The catalogue covers 143 existing packages and data resources. Six R and Python examples cover community analysis, structural equation modeling, prediction at held-out sites, spatial sampling and evidence synthesis. [Search the directory](https://azaleawu.github.io/ecology-analysis-toolkit/browse.html). |
 | [Soil amplicon workflows with DADA2](https://github.com/azaleawu/soil-amplicon-dada2) | Process soil 16S, ITS and 18S reads, choose marker-specific settings, and assess which libraries can be compared across studies. |
 | [Permafrost metagenomics](https://github.com/azaleawu/oligarchy-permafrost-microbiomes) | Follow a genome-resolved workflow from assembly and abundance profiling to phylogenetic and environmental analyses of permafrost microbiomes. |
 
@@ -20,4 +20,4 @@ The toolkit and the DADA2 workflow connect through a public Atacama Desert examp
 
 我把野外观测、环境测量与公开数据结合起来，比较哪些规律在不同地点依然成立，哪些取决于当地条件。我也在整理可复用的 R 和 Python 工作流，用于群落比较、生态响应建模和跨研究证据综合。这里展示的土壤微生物、冻土宏基因组和生态分析工具库，是其中几个例子。
 
-[生态分析工具目录](https://github.com/azaleawu/ecology-analysis-toolkit/tree/main/catalog) · [土壤扩增子代码与文献目录](https://github.com/azaleawu/soil-amplicon-dada2/tree/main/references) · [土壤微生物分析方法](https://github.com/azaleawu/soil-amplicon-dada2/blob/main/docs/profile.md)
+[在线检索生态分析工具](https://azaleawu.github.io/ecology-analysis-toolkit/browse.html) · [土壤扩增子代码与文献目录](https://github.com/azaleawu/soil-amplicon-dada2/tree/main/references) · [土壤微生物分析方法](https://github.com/azaleawu/soil-amplicon-dada2/blob/main/docs/profile.md)
